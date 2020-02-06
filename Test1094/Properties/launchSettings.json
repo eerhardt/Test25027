@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Test1094": {
+      "commandName": "Executable",
+      "executablePath": "F:\\dotnet\\dotnet.exe",
+      "commandLineArgs": "C:\\Users\\eerhardt\\source\\repos\\Test1094\\Test1094\\bin\\Debug\\netcoreapp3.1\\Test1094.dll",
+      "nativeDebugging": false
+    }
+  }
+}
